@@ -78,7 +78,7 @@ Sets environment variables for the container.
 ENV <key>=<value>
 # Example: ENV PORT=8080    
 ```
-
+  
 ## 4. Understanding Image Types (Public vs. Private) 
 
 When working with Docker images, they generally fall into two categories based on where they are stored and who can access them:
