@@ -1,4 +1,4 @@
-# Linux & Docker Complete Tutorial — Beginner to Advanced
+# Linux & Docker Complete Tutorial.
 
 > 
 ---
